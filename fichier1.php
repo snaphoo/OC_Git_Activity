@@ -8,5 +8,8 @@
 	Bonjour
 </div>
 
+<?php
+echo "hello world";
+?>
 </body>
 </html>
