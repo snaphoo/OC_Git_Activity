@@ -1,1 +1,5 @@
-je suis un simple fichier texe
+je suis un simple fichier texte
+
+
+
+un fichier avec 2 lignes désormais
